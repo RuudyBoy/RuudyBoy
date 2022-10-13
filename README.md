@@ -1,16 +1,15 @@
-### Hi there 👋
+Welcome to my personal repository!
 
-<!--
-**RuudyBoy/RuudyBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Christian Jørgensen Ruud and i am 23 years old. I have recently finished 2 years of Front-end devlopment at Noroff university. Besides sitting in my room trying to become a skilled programmer i am also a volleyball player on the highest level in Norway.
 
-Here are some ideas to get you started:
+My Tech skills:
+- Javascript
+- css, sass
+- React
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me:
+- ruuden98@gmail.com
+- Insta: @ruuden98
+- Facebook: Christian Jørgensen Ruud
+
